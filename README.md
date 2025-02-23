@@ -63,6 +63,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ```
 
 This README provides detailed information regarding setup, running the script, and the inner workings of the recommendation engine, ensuring clarity and ease of use for developers and users alike.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/32315579/03f6271d-f15d-4e0c-b692-71741178e7c0/paste.txt
