@@ -12,7 +12,7 @@ This project implements a simple content-based movie recommendation system using
 ## Setup and Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/aaryannb/movie-recommendations-.git
    ```
 2. Navigate to the project directory:
    ```
