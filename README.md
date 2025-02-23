@@ -16,7 +16,7 @@ This project implements a simple content-based movie recommendation system using
    ```
 2. Navigate to the project directory:
    ```
-   cd movie-recommendation-system
+   cd movie-recommendation
    ```
 3. Install required dependencies:
    ```
